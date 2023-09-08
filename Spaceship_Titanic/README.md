@@ -1,4 +1,4 @@
-# Spaceship_Titanic
+# Spaceship Titanic
 
 In this work, the challenge is to predict which passengers were transported, using records recovered from the spaceship’s damaged computer system.
 
