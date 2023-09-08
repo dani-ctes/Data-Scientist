@@ -1,5 +1,5 @@
 # Machine Learning
-<img src='https://github.com/dani-ctes/Machine_Learning/blob/main/image.png' width='500' align='right'>
+<img src='https://github.com/dani-ctes/Machine_Learning/blob/main/image.png' width='300' align='right'>
 
 
 
