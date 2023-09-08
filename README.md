@@ -1,7 +1,6 @@
 # Machine_Learning
 <br>
-- [Forecast US-energy](https://github.com/dani-ctes/Machine_Learning/tree/main/Forecast_US-energy)
-
+- <a href="https://github.com/dani-ctes/Machine_Learning/tree/main/Forecast_US-energy" target="_blank">Forecast US-energy</a>
 <br>
 
 
