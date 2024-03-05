@@ -6,6 +6,7 @@
 <br>- <a href="https://github.com/dani-ctes/Machine_Learning/tree/main/Forecast_US-energy" target="_blank">Forecast US-energy</a> </br>
 <br>- <a href="https://github.com/dani-ctes/Machine_Learning/tree/main/Spaceship_Titanic" target="_blank">Spaceship Titanic</a></br>
 <br>- <a href="https://github.com/dani-ctes/Machine_Learning/blob/main/Deptos_CABA_2016" target="_blank">Departamentos en venta CABA 2016</a></br>
+<br>- <a href="https://github.com/dani-ctes/Machine_Learning/" target="_blank">Analisis del Mercado Inmobiliario de Buenos Aires</a></br>
 <br></br>
 
 ## 🔗 Links
